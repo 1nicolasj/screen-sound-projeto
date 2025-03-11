@@ -1,0 +1,14 @@
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\bin\Debug\net8.0\ScreenSoundProjeto.exe
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\bin\Debug\net8.0\ScreenSoundProjeto.deps.json
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\bin\Debug\net8.0\ScreenSoundProjeto.runtimeconfig.json
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\bin\Debug\net8.0\ScreenSoundProjeto.dll
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\bin\Debug\net8.0\ScreenSoundProjeto.pdb
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.AssemblyInfoInputs.cache
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.AssemblyInfo.cs
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.csproj.CoreCompileInputs.cache
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.dll
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\refint\ScreenSoundProjeto.dll
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.pdb
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ScreenSoundProjeto.genruntimeconfig.cache
+C:\Estudos\Cursos\Alura\C#\ScreenSoundProjeto\ScreenSoundProjeto\obj\Debug\net8.0\ref\ScreenSoundProjeto.dll
