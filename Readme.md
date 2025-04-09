@@ -1,6 +1,6 @@
 # Screen Sound
 
-Um sistema simples baseado em um curso da Alura para registrar e avaliar bandas.
+Um sistema simples baseado em um curso da Alura para registrar e avaliar bandas musicais.
 
 # Funcionalidades
 
